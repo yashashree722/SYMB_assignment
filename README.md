@@ -10,16 +10,16 @@ source myenv/Scripts/activate
 
 
 Linux/Mac        
-python -m venv myenv
-source myenv/bin/activate
+python -m venv myenv          
+source myenv/bin/activate        
 
 
-Install Dependencies
-pip install -r requirements.txt
+Install Dependencies               
+pip install -r requirements.txt         
 
 
-Running the Application
-uvicorn main:app --reload
+Running the Application            
+uvicorn main:app --reload               
 
 
-The API will be accessible at: http://127.0.0.1:8000
+The API will be accessible at: http://127.0.0.1:8000                   
