@@ -1,15 +1,15 @@
 
 
-Clone Repo
+Clone Repo     
 git clone https://github.com/yashashree722/SYMB_assignment.git
 cd SYMB_assignment
 
-2. Create a Virtual Environment
+2. Create a Virtual Environment    
 python -m venv myenv
 source myenv/Scripts/activate
 
 
-Linux/Mac
+Linux/Mac        
 python -m venv myenv
 source myenv/bin/activate
 
